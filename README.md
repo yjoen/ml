@@ -1,3 +1,3 @@
 # RL
-Reinforcement Learning Project
+Machine Learning Lectures and Project
 
